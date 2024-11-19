@@ -12,15 +12,15 @@ A estrutura do projeto é desenvolvida para ser uma atualização através da im
  
  - **Novo Slide com Link (Zelda)**: Incluido um novo slide no carrossel com informações sobre o jogo "Zelda", incluindo um botão que leva a um link de "compre agora" e "assista ao trailer".
  
- - **Melhoria na Responsividade**: Garantir que a página seja completamente responsiva, ajustando o layout para diferentes tamanhos de tela (mobile, tablet, desktop).
+ - **Melhoria na Responsividade**:  Ajustado o layout para diferentes tamanhos de tela (mobile, tablet, desktop).
 
-- **Aprimoramento de Semântica HTML**: Utilizar elementos semânticos adequados para melhorar a acessibilidade e o SEO da página.
+- **Aprimoramento de Semântica HTML**: Utilizado elementos semânticos adequados para melhorar a acessibilidade e o SEO da página.
 
 - **Criação de Ícones Personalizados**: Utilizado o icone de carrinho de compras do Font Awesome, para direcionar o usuário a página de compra, deixando a navegação mais intuitiva e prática.
 
 - **Fontes Customizadas**: Adicionado a fonte Ubuntu do Google Fonts, deixando a estilização da página mais criativa e de fácil leitura.
 
-- **Testes e Validação**: Testar a página em diferentes navegadores e dispositivos para garantir o funcionamento correto de todas as funcionalidades.
+- **Testes e Validação**: Testado a página em diferentes navegadores e dispositivos para garantir o funcionamento correto de todas as funcionalidades.
 
 
 ## Tecnologias Utilizadas
